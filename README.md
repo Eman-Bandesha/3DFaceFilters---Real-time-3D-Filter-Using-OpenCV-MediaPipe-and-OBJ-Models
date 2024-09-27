@@ -17,5 +17,18 @@
 You can install the dependencies with:
 ```bash
 pip install opencv-python mediapipe numpy
+```
+
+## Output
+The output is following:
+
+## License
+This project is licensed under the MIT License.
+
+## Contributors
+- [Eman Azam](https://github.com/Eman-Bandesha)
+
+
+
 
 
